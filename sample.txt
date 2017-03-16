@@ -1,3 +1,6 @@
+
 This is a sample text file.
 this is my change now.
 Today is going to be a good day.
+This is THursday 3.16.17.
+this is my change.
